@@ -10,6 +10,8 @@ import javax.swing.*;
 public class MembershipRegistration extends JFrame {
 
     //Fields
-
     private Guest guest1;
+
+
+
 }
